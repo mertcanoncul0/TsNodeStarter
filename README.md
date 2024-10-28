@@ -33,7 +33,7 @@ git clone https://github.com/mertcanoncul0/TsNodeStarter.git
 Projeyi klonladıktan sonra proje dizinine geçiş yapın:
 
 ```bash
-cd ts-node-starter
+cd TsNodeStarter
 ```
 
 ### 3. Gerekli Paketleri Yükleyin
