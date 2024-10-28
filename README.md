@@ -38,7 +38,7 @@ cd TsNodeStarter
 
 ### 3. Gerekli Paketleri Yükleyin
 
-Proje bağımlılıklarını yüklemek için aşağıdaki komutu çalıştırın:
+Proje bağımlılıklarını yüklemek için aşağıdaki komutu çalıştırın veya (npm, yarn, pnpm):
 
 ```bash
 bun install
